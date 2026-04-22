@@ -43,7 +43,7 @@
 
 <br>
 
-![Arch](https://img.shields.io/badge/Arch-Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white&labelColor=0D1117)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-Linux-1793D1?style=flat-square&logo=Ubuntu&logoColor=white&labelColor=0D1117)
 ![Hyprland](https://img.shields.io/badge/Hyprland-WM-58E1FF?style=flat-square&logoColor=white&labelColor=0D1117)
 ![Neovim](https://img.shields.io/badge/Neovim-Editor-57A143?style=flat-square&logo=neovim&logoColor=white&labelColor=0D1117)
 
@@ -54,7 +54,7 @@
 
 <pre>sourabh@forkit  ~  $</pre>
 
-<pre>
+<!-- <pre>
 ╔─────────────────────────────────────────────╗
 │  λ  OS       Arch Linux  x86_64             │
 │  ⚙  Kernel   6.x.x-arch1                   │
@@ -74,7 +74,7 @@
 ╠─────────────────────────────────────────────╣
 │  ● ● ● ● ● ● ● ●   (color palette)         │
 ╚─────────────────────────────────────────────╝
-</pre>
+</pre> -->
 
 <pre>
 ╔─────────────────────────────────────────────╗
@@ -308,8 +308,8 @@
 ```
 
 [![GitHub](https://img.shields.io/badge/GitHub-sourabh--thakur12-9D5BFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/sourabh-thakur12)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00FFD1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/sourabh-thakur12)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-FF79C6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:sourabh@forkit.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00FFD1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/sourabh-thakur-100mnist)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-FF79C6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:sourabh@fork-it.in)
 
 </div>
 
