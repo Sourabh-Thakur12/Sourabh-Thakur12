@@ -22,11 +22,13 @@
 
 <br>
 
-<img src="https://avatars.githubusercontent.com/sourabh-thakur12" width="155" />
+<!-- <img src="https://avatars.githubusercontent.com/sourabh-thakur12" width="155" /> -->
 
-<br><br>
 
-<pre>
+
+<img src="assets/ezgif.com-gif-maker.gif" width="100%">
+
+<!-- <pre>
  ╔═══════════════════╗
  ║  FORK IT TECH     ║
  ║    ___________    ║
@@ -39,7 +41,7 @@
  ║    ‾‾‾‾‾‾‾‾‾‾‾    ║
  ║ Nocturnal v2.4    ║
  ╚═══════════════════╝
-</pre>
+</pre> -->
 
 <br>
 
